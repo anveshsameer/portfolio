@@ -1,4 +1,4 @@
-# Modern MERN Developer Portfolio
+# Anvesh Sameer - Portfolio Website
 
 A stunning, modern personal portfolio website built with React, featuring jaw-dropping animations, fluid design, and a rich UI. Perfect for showcasing your professional experience and journey as a MERN stack developer.
 
